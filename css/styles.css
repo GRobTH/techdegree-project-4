@@ -490,6 +490,11 @@ a {
   overflow: hidden;
 }
 
+/* line 27, C:/Users/rgull/OneDrive/Desktop/Coding Projects/techdegree-project-4/scss/components/_forms.scss */
+fieldset {
+  border: none;
+}
+
 /* ============================================= */
 /*              Navigation                       */
 /* ============================================= */
